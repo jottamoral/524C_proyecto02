@@ -1,3 +1,9 @@
 body {
     background: antiquewhite;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
 }
+
